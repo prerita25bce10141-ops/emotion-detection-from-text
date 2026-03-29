@@ -104,7 +104,7 @@ pip install pandas scikit-learn
 ### 3. Clone or Download Repository
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/prerita25bce10141-ops
 cd emotion-detection-from-text
 ```
 
